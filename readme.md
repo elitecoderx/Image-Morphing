@@ -7,6 +7,9 @@ The **Image Morphing App** is a Python-based web application that allows users t
   <img src="morphing.gif" alt="Image Morphing Example" width="200">
 </p>
 
+## Live Demo:
+[Click here to try now](https://elitecoderx.streamlit.app/) 🚀  
+
 ## Features
 - **Image Normalization**: Resizes images to match dimensions.
 - **Feature Point Selection**: Users can manually specify corresponding points.
