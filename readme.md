@@ -8,7 +8,7 @@ The **Image Morphing App** is a Python-based web application that allows users t
 </p>
 
 ## Live Demo:
-[Click here to try now](https://elitecoderx.streamlit.app/) 🚀  
+[Click here to try now](https://elitecoderx.streamlit.app/Image_Morphor) 🚀  
 
 ## Features
 - **Image Normalization**: Resizes images to match dimensions.
