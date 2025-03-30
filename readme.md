@@ -24,8 +24,8 @@ Ensure you have Python 3.8+ installed.
 ### Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/image-morphing-app.git
-   cd image-morphing-app
+   git clone https://github.com/elitecoderx/Image-Morphing.git
+   cd Image-Morphing
    ```
 2. Install pipenv for virtual environment:
    ```sh
